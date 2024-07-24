@@ -1,4 +1,4 @@
-package com.three.one_three
+package com.three.one_three.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
